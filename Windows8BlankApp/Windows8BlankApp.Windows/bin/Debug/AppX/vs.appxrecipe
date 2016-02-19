@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>G27465-W10DESK</Machine>
+    <WindowsUser>G27465</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e22c86bc-d2eb-4756-b19b-2c9732ccc411</PackageIdentityName>
+    <IntermediateOutputPath>C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0B182EB8552D9833A8E421B6204B324FB2861F89441D7EE9ADB53521877DC5ED</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e22c86bc-d2eb-4756-b19b-2c9732ccc411_1.0.0.0_neutral__7dyad00g2c06y</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e22c86bc-d2eb-4756-b19b-2c9732ccc411_7dyad00g2c06y!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e22c86bc-d2eb-4756-b19b-2c9732ccc411</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=G27465</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-02-19T14:52:50.133</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\bin\Debug\Windows8BlankApp.Windows.exe">
+      <PackagePath>Windows8BlankApp.Windows.exe</PackagePath>
+      <Modified>2016-02-19T15:31:57.660</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T22:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\bin\Debug\Windows8BlankApp.Windows.xr.xml">
+      <PackagePath>Windows8BlankApp.Windows.xr.xml</PackagePath>
+      <Modified>2016-02-19T15:18:10.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-02-19T14:35:56.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-02-19T15:31:57.501</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-02-19T14:52:49.974</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

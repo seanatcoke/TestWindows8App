@@ -1,0 +1,1 @@
+C:\Projects\VS2015\Windows8Apps\Windows8BlankApp\Windows8BlankApp\Windows8BlankApp.Windows\Windows8BlankApp.Windows.csproj;neutral
